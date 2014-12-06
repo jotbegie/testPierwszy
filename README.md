@@ -1,4 +1,5 @@
 testPierwszy
 ============
 
-test repo
+---test repo
+wyedytowany readme
